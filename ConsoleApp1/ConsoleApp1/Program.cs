@@ -14,6 +14,7 @@ namespace ConsoleApp1
             //Code added using VS
             //Code added to Feature 1
             //Updating in master
+            //Another user added this line
         }
     }
 }
