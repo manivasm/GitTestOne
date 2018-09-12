@@ -13,6 +13,7 @@ namespace ConsoleApp1
             //Code edited using github
             //Code added using VS
             //Code added to Feature 1
+            //Updated new Feature 2
             //Updating in master
             //Another user added this line
         }
